@@ -11,7 +11,7 @@ como forma de treino.
 
 Uma Calculadora de Índice de Massa Corporal inspirada nos belos designs feitos por [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).Um aplicativo com várias telas com funcionalidade simples, mas com um estilo totalmente personalizado.
 
-![Finished App](https://fernandoportugal.com/wp-content/uploads/2021/04/imc-calc-demo.gif)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
 ## Praticando Flutter e Dart
 
