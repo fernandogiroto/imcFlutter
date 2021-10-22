@@ -1,16 +1,16 @@
 # IMC CALCULATOR 💪
 
-## OBJETIVO
+## GOAL
 
 The purpose of creating this app is to see how I can customize Flutter Widgets to get our own UI designs. Taking as an example the design made by Ruben Vaalt and trying to recreate as a form of training.
 
-## Resumo do APP
+## APP RESUME
 
 A Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). A multi-screen app with simple functionality, but with a fully customized styling.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
-## Practicing Flutter and Dart Language
+## PRACTICING FLUTTER AND DART LANGUAGE
 
 - How to use Flutter Themes to create a coherent brand.
 - How to create multipage apps using Flutter Routes and Navigator.
