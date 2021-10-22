@@ -1,27 +1,24 @@
-![Fernando Portugal Banner](https://fernandoportugal.com/wp-content/uploads/2021/04/fernandoportugal.png)
-
 # IMC CALCULATOR 💪
 
 ## OBJETIVO
 
-O objetivo de criar esse app é ver como posso personalizar Flutter Widgets para obter nossos próprios designs de interface de usuário. Pegando como exemplo o design feito por Ruben Vaalt e tentar recriar
-como forma de treino.
+The purpose of creating this app is to see how I can customize Flutter Widgets to get our own UI designs. Taking as an example the design made by Ruben Vaalt and trying to recreate as a form of training.
 
 ## Resumo do APP
 
-Uma Calculadora de Índice de Massa Corporal inspirada nos belos designs feitos por [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).Um aplicativo com várias telas com funcionalidade simples, mas com um estilo totalmente personalizado.
+A Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). A multi-screen app with simple functionality, but with a fully customized styling.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
-## Praticando Flutter e Dart
+## Practicing Flutter and Dart Language
 
-- Como usar os Flutter Themes para criar uma marca coerente.
-- Como criar aplicativos de várias páginas usando o Flutter Routes e Navigator.
-- Como extrair e refatorar Widgets Flutter com um clique do botão.
-- Como passar funções como parâmetros e campos.
-- Como usar o widget GestureDetector para detectar mais do que apenas um toque.
-- Como usar paletas de cores personalizadas usando códigos hexadecimais.
-- Como personalizar Widgets Flutter para atingir um estilo de design específico.
-- Praticar a diferença entre const e final no Dart e quando usar cada um.
+- How to use Flutter Themes to create a coherent brand.
+- How to create multipage apps using Flutter Routes and Navigator.
+- How to extract and refactor Flutter Widgets with a click of the button.
+- How to pass functions as parameters and fields.
+- How to use the GestureDetector widget to detect more than just a tap.
+- How to use custom color palettes using hexadecimal codes.
+- How to customize Flutter Widgets to achieve a specific design style.
+- Practice the difference between const and ending in Dart and when to use each one.
 
-> With over 07 years of experience in the area of ​​web design and mobile app construction. Building projects with creativity and effectiveness. Passionate about technology and what I do, I have been helping many small and medium-sized companies to level up.[www.fernandoportugal.com](https://www.fernandoportugal.com/)
+[www.fernandoportugal.com](https://www.fernandoportugal.com/)
